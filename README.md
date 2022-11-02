@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Senthil Pandi</h1>
 <h3 align="center">Student</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw1SZYxoYX8nGDKL328QXuRw&ust=1667490622435000&source=images&cd=vfe&ved=2ahUKEwi_oYDj7I_7AhVmW2wGHVAfBpMQjRx6BAgAEAw"
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senthilsp41&label=Profile%20views&color=0e75b6&style=flat" alt="senthilsp41" /> </p>
 
 - 🌱 I’m currently learning **Python,Sql**
