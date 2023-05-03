@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a frontend developer and computer science student with a passion for creating user-friendly interfaces using HTML, CSS, JavaScript.<br> I am committed to writing clean and efficient code that prioritizes accessibility and the user experience.<br>I constantly expand my knowledge and skills by working on personal projects and contributing to open source projects.<br> Ultimately, my goal is to develop innovative and intuitive interfaces that enhance how we interact with technology.
+<li>I am a frontend developer and computer science student with a passion for creating user-friendly interfaces using HTML, CSS, JavaScript.</li><br> <li>I am committed to writing clean and efficient code that prioritizes accessibility and the user experience.</li><br><li>I constantly expand my knowledge and skills by working on personal projects and contributing to open source projects.</li><br> <li>Ultimately, my goal is to develop innovative and intuitive interfaces that enhance how we interact with technology.</li>
 
 
 ## 🌐 Socials:
