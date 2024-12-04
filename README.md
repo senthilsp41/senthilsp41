@@ -1,7 +1,5 @@
 # 💫 About Me:
-<li>I am a frontend developer and computer science student with a passion for creating user-friendly interfaces using HTML, CSS, JavaScript.</li><br> <li>I am committed to writing clean and efficient code that prioritizes accessibility and the user experience.</li><br><li>I constantly expand my knowledge and skills by working on personal projects and contributing to open source projects.</li><br> <li>Ultimately, my goal is to develop innovative and intuitive interfaces that enhance how we interact with technology.</li>
-
-
+<li>I am a Python Full Stack Developer and freelancer with expertise in building robust and dynamic web applications.</li><br> <li>I have a strong foundation in HTML, CSS, JavaScript, React.js, Python, Django, and SQL, allowing me to create seamless and efficient end-to-end solutions.</li><br> <li>I am committed to writing clean, maintainable, and scalable code while focusing on delivering an exceptional user experience.</li><br> <li>I continuously enhance my skills through personal projects and freelance work, staying updated with the latest industry trends and technologies.</li><br> <li>My goal is to craft innovative and impactful solutions that streamline how users interact with technology.</li>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/senthil.pandi.71697/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/senthil__sp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senthil-pandi-630184191/)
 
